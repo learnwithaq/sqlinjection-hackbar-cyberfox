@@ -1,4 +1,4 @@
-# sqlinjection-hackbar-cyberfox
+# SQL Injection (UNION-BASED) -- Cyberfox (Hackbar)
 
 Pre-requisite:
 1. Cyberfox Browser - (Linux/Windows).<br>
