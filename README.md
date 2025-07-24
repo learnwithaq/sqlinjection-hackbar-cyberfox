@@ -2,7 +2,7 @@
 
 Pre-requisite:
 1. Cyberfox Browser - (Linux/Windows).<br>
-    To install cyberfox on linux using .deb <pre>dpkg -i <packagename>.deb</pre>
+    To install cyberfox on linux using .deb <pre>dpkg -i packagename.deb</pre>
 2. Hackbar v2.9.xpi
 3. noredirect-1.3.2.13-fx+sm.xpi
 4. tamper-data.xpi
